@@ -1,0 +1,9 @@
+#CoreWeapons main config
+
+#Have a question? join the discord
+#Discord: http://discord.gg/BgR8wxT
+
+#Resourcepack settings
+ResourcepackMeshing: false
+#if meshing is enabled you must also open this port
+ResourcepackPort: 8080

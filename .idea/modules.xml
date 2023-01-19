@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreWeapons/CoreWeapons.iml" filepath="$PROJECT_DIR$/CoreWeapons/CoreWeapons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NMS17a/NMS17a.iml" filepath="$PROJECT_DIR$/NMS17a/NMS17a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NMS18a/NMS18a.iml" filepath="$PROJECT_DIR$/NMS18a/NMS18a.iml" />
+    </modules>
+  </component>
+</project>

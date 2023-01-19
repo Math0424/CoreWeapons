@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="craftbukkit-18">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Resources/Spigot/craftbukkit-18.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

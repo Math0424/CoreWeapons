@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreWeapons.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreWeapons.jar</output-path>
+    <root id="archive" name="CoreWeapons.jar">
+      <element id="module-output" name="CoreWeapons" />
+      <element id="module-output" name="NMS17a" />
+      <element id="module-output" name="NMS18a" />
+    </root>
+  </artifact>
+</component>

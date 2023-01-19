@@ -1,0 +1,13 @@
+name: CoreWeapons
+version: 1.3.8
+author: Math0424
+load: STARTUP
+main: me.Math0424.CoreWeapons.CoreWeaponsAPI
+api-version: "1.17"
+commands:
+  coreweapons:
+    usage: "basic commands"
+
+permissions:
+  coreweapons.*:
+    default: true
